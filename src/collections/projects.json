@@ -1,38 +1,32 @@
 [
-	{
-		"name": "TempMail.Best",
-		"description": "Best Temporary Email.",
-		"image": "/assets/images/projects/tempmail.best.png",
-		"url": "https://tempmail.best"
-	},
-	{
-		"name": "DNS.Surf",
-		"description": "Querying DNS Resolution Results in Different Regions Worldwide.",
-		"image": "/assets/images/projects/dns.surf.png",
-		"url": "https://dns.surf"
-	},
-	{
-		"name": "HTML.ZONE",
-		"description": "Web Toolbox.",
-		"image": "/assets/images/projects/html.zone.png",
-		"url": "https://html.zone"
-	},
-	{
-		"name": "Sink",
-		"description": "A Simple / Speedy / Secure Link Shortener with Analytics.",
-		"image": "/assets/images/projects/sink.cool.png",
-		"url": "https://sink.cool"
-	},
-	{
-		"name": "BroadcastChannel",
-		"description": "Turn your Telegram Channel into a MicroBlog.",
-		"image": "/assets/images/projects/broadcast-channel.png",
-		"url": "https://github.com/ccbikai/BroadcastChannel"
-	},
-	{
-		"name": "L(O*62).ONG",
-		"description": "Make your URL looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooonger",
-		"image": "/assets/images/projects/long.png",
-		"url": "https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong"
-	}
+  {
+    "name": "Airport Car Rental",
+    "description": "Car Rental at Dubai Airport Instant Pickup.",
+    "image": "/previous-work/fastRentDXB.png",
+    "url": "https://airportcarrental.pages.dev/"
+  },
+  {
+    "name": "DNS.Surf",
+    "description": "Professional Dental Care for Your Perfect Smile.",
+    "image": "/previous-work/DesignedDental.png",
+    "url": "https://dentalclinic-3yy.pages.dev"
+  },
+  {
+    "name": "Physio Care",
+    "description": "Restoring Motion, Reclaiming Life/",
+    "image": "/previous-work/PhysioCare.png",
+    "url": "https://physiocare.pages.dev"
+  },
+  {
+    "name": "City Drive Car Rental",
+    "description": "Premium Car Rental In Dubai Pure Luxury.",
+    "image": "/previous-work/CityDriveCarRental.png",
+    "url": "https://citydrivecarrental.pages.dev"
+  },
+  {
+    "name": "Luxury Car Rental",
+    "description": "Experience The Extraordinary.",
+    "image": "/previous-work/LuxuryCarRental.png",
+    "url": "https://luxurycarrental-5v3.pages.dev"
+  }
 ]
